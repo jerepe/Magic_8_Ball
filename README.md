@@ -12,8 +12,11 @@
 > If you enter your name, but no question, no answer will be given :(
 > If you enter neither one of them, no answer will be given too ...
 
+### How was it done ?
+> Using Zsh, the CLI and Emacs.
+
 ### Why ?
-> Codecademy project, that i adapted to my needs. Meaning they didn't ask to read user input, but i found that cool to play with, so i added it.
+> Codecademy project. They didn't ask to read user input, but i found that cool to play with, so i added it.
 > Tougher than anything previously done to figure out the proper workflow.
 > Really happy it was, because i learned a lot.
 > 
