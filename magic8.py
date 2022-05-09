@@ -10,7 +10,7 @@ answer = ""
 # random number is generated
 random_number = random.randint(1, 9)
 
-# if you also want to see the random number printed, un-comment the following:
+# if you want to see the random number printed, un-comment the following:
 # print(random_number)
 
 # answer fills itself with the random_number:
